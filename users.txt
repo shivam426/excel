@@ -1,0 +1,1 @@
+{"email":"shivam.mandal426@gmail.com","password":"$2a$10$SMpBRDzCTAZq2yasgRdjZ.0FqQRJKTFsh/JqCzcWH8sF8EYJ4C3jO","name":"shivam Mandal","id":"1601219142"}
